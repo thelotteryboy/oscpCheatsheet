@@ -50,3 +50,4 @@ When adding new techniques:
 ---
 
 **Note:** This is a personal study repository. All techniques should only be used in authorized environments (HTB, PWK labs, OSCP exam).
+# oscpCheatsheet
