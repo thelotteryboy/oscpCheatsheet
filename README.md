@@ -1,4 +1,4 @@
-# OSCP Cheat Sheet
+# Thelotteryboy OSCP Cheat Sheet
 
 A comprehensive collection of techniques, commands, and exploits for OSCP exam preparation.
 
