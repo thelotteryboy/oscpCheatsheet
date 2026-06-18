@@ -1,0 +1,46 @@
+# Credentials and sensitive data
+*.txt
+*.log
+credentials/
+passwords/
+hashes/
+
+# Except documentation
+!README.md
+!CONTRIBUTING.md
+
+# Lab notes (keep private)
+private-notes/
+lab-reports/
+
+# Exploit development artifacts
+*.exe
+*.dll
+*.bin
+*.elf
+core
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Screenshots (optional - remove if you want to track them)
+screenshots/
+*.png
+*.jpg
+*.jpeg
